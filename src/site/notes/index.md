@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"coherentism"}
+{"dg-publish":true,"permalink":"/index/","title":"index"}
 ---
 
 
